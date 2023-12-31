@@ -1,4 +1,4 @@
-# Coffee Sales Analysis Project Documentation
+# Coffee Sales Analysis Project
 
 ## Project Overview
 
