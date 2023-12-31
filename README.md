@@ -8,6 +8,11 @@ This project aims to analyze coffee sales data to derive insights into customer 
 **Dataset:**
 The dataset comprises detailed information about coffee sales, including order details, customer information, product specifics, and sales-related metrics.
 
+## Project Dashboard
+
+
+![Sales Trend Chart](https://github.com/umeaimanMerchant/CoffeeSales/blob/main/CoffeeSales.PNG)
+
 ## Project Steps
 
 ### Data Import:
